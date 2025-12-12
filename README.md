@@ -1,4 +1,7 @@
-# Military Asset Management System (Minimal Fullstack)
+# Military Asset Management System 
+admin:adminpass
+cmd_alfa:commanderpass
+
 This is a minimal starter fullstack app (React frontend + Node/Express backend + PostgreSQL) implementing core features described in the prompt:
 - Dashboard with opening/closing balances and net movement
 - Purchases, Transfers, Assignments/Expenditures pages
